@@ -51,7 +51,7 @@ address=input('Enter Your address : ')
 email=input('Enter your email id : ')
 phone=input('Enter your phone number : ')
 
-b=Bank(account,IFSC,date,username,father,pan,adhar,address.email,phone) # object creation based on user provided data
+b=Bank(account,IFSC,date,username,father,pan,adhar,address,email,phone) # object creation based on user provided data
 
 while True:
     print('\nPlease Select any Option : ')
