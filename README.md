@@ -7,7 +7,7 @@ This Python program is an example of a simple operation system implemented using
 
 SHORT DESCRIPTION OF BANK ACCOUNT CREATION
 
-This Python program represents a basic bank operation system using Object-Oriented Programming (OOP) principles.  
+This  program represents a basic bank operation system using Object-Oriented Programming (OOP) principles.  
 
 Bank Class:
 
